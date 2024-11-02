@@ -37,7 +37,7 @@ def generate_hello():
     instance = ComplexHello()
     yield instance.display()
 
-# Runs "complicated" :-) code to print "Hello, World!"
+# Runs "fun code" :-) to print "Hello, World!"
 if __name__ == '__main__':
     for message in generate_hello():
         print(message)
