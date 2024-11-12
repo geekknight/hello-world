@@ -4,6 +4,7 @@
 
 """
 >>> A more fun code - Hello World! :-))))
+:)
 """
 
 # Importing required modules
